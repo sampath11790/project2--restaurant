@@ -1,0 +1,25 @@
+.button {
+    font: inherit;
+    margin: 4px 2px;
+    cursor: pointer;
+    color: rgb(3, 2, 2);
+    padding: 0.25rem 1rem;
+    
+    padding: 1rem;
+    display: flex;
+    justify-content: flex-end;
+    
+  }
+  .btn{
+    background-color: rgb(74, 149, 149);
+  border-radius: 1px;
+    color: rgb(233, 233, 242);
+    cursor: pointer;
+  }
+  
+  .button:hover,
+ 
+  
+  .button:focus {
+    outline: none;
+  }

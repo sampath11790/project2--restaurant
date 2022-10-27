@@ -1,0 +1,14 @@
+.cart{
+        display: flex;
+        justify-content:end;
+       
+        margin: 0;
+        padding: 0;
+        max-height: 15rem;
+        overflow: auto;
+        background-color: rgb(243, 236, 243);
+        border-radius: 10px;
+        color: black;
+        
+      
+}

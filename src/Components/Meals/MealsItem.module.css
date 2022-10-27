@@ -1,0 +1,16 @@
+.listitem{
+   background-color: rgb(219, 211, 227);
+   
+   
+    padding: 5px;
+    border-radius: 10px;
+    white-space: 30px;
+    margin: 5px;
+    
+}
+.item{
+
+    display: flex;
+    justify-items: flex-start;
+   
+}
